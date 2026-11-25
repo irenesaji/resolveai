@@ -1,0 +1,17 @@
+
+RESOLVEAI CUSTOMER SUPPORT POLICY
+
+1. Duplicate Payments
+If a customer is charged twice for the same order, verify both transactions using the order ID, payment dates, and transaction references. Once a duplicate charge is confirmed, initiate a refund for the extra payment.
+
+2. Refund Requests
+Customers can request refunds for eligible orders. Support agents must verify the order details and payment status before approving a refund.
+
+3. Delivery Issues
+For delayed or missing deliveries, verify the order ID and delivery status. Escalate unresolved delivery issues to the operations team.
+
+4. Account Issues
+For account access problems, verify the registered email address before assisting with account recovery.
+
+5. Customer Communication
+Always respond politely, acknowledge the customer's concern, and explain the next steps clearly.
